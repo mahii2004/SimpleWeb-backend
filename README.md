@@ -39,6 +39,7 @@ simpleWeb-backend/
 - │ ├── application.properties
 - ├── pom.xml
 
+---
 
 ### 🧪 API Testing
 Use Postman or any REST client to test the APIs.
@@ -56,3 +57,18 @@ Example endpoints:
 - DELETE /products/{id}
 
 Sample JSON payload:
+
+{
+  "name": "Example Product",
+  "price": 99.99,
+  "description": "A demo product"
+}
+
+---
+
+### 🙋‍♂️ Author
+Mahendra Dadibathina
+
+GitHub: mahi2004
+
+Email: mahendradadibathina@gmail.com
