@@ -56,7 +56,9 @@ Example endpoints:
 
 - DELETE /products/{id}
 
-Sample JSON payload:
+---
+
+### Sample JSON payload:
 
 {
 
