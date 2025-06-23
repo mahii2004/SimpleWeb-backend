@@ -32,10 +32,10 @@ Make sure you have the following installed:
 
 
 simpleWeb-backend/
-├── src/
-│ └── main/
-│ ├── java/com/example/simpleweb/
-│ └── resources/
-│ ├── application.properties
-├── pom.xml
+- ├── src/
+- │ └── main/
+- │ ├── java/com/example/simpleweb/
+- │ └── resources/
+- │ ├── application.properties
+- ├── pom.xml
 
