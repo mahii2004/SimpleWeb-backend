@@ -39,3 +39,20 @@ simpleWeb-backend/
 - │ ├── application.properties
 - ├── pom.xml
 
+
+### 🧪 API Testing
+Use Postman or any REST client to test the APIs.
+
+Example endpoints:
+
+- GET /products
+
+- GET /products/{id}
+
+- POST /products
+
+- PUT /products/{id}
+
+- DELETE /products/{id}
+
+Sample JSON payload:
