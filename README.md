@@ -59,9 +59,13 @@ Example endpoints:
 Sample JSON payload:
 
 {
+
   "name": "Example Product",
+  
   "price": 99.99,
+  
   "description": "A demo product"
+  
 }
 
 ---
