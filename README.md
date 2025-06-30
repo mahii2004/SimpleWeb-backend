@@ -75,6 +75,6 @@ Example endpoints:
 ### 🙋‍♂️ Author
 Mahendra Dadibathina
 
-GitHub: mahi2004
+GitHub: https://github.com/mahii2004
 
 Email: mahendradadibathina@gmail.com
