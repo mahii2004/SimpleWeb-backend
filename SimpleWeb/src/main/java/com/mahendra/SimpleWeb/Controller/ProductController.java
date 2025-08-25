@@ -38,7 +38,7 @@ public class ProductController {
     }
 
     @DeleteMapping("/products")
-    public String deleteProductById(){
+    public String deleteProducts(){
         service.deleteProducts();
         return "All Products deleted successfully ";
     }
@@ -52,3 +52,4 @@ public class ProductController {
 
 
 }
+
